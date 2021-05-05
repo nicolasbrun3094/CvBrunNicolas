@@ -1,0 +1,208 @@
+body {
+    background-color: rgb(214, 214, 181);
+}
+
+header {
+    text-align: center;
+    background-color: white
+}
+
+#title {
+    text-align: center;
+    font-size: 2em;
+    margin-left: 150px;
+   }
+
+h2 {
+    text-decoration: 1px black underline;
+    font-size: 2.50em;
+    text-align: center;
+    margin-top: 35px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1.25em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+#exp {
+    text-align: center;
+    margin-top: 60px;
+}
+
+#picture {
+    float: right;
+    border: 1px solid red;
+    border-radius: 75px;
+    box-shadow: 2px 2px 6px black;
+    margin-right: 20px;
+    margin-top: 12.5px;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: white
+}
+
+#conteneur {
+    display: flex;
+}
+
+#conteneur3 {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+}
+
+.element1 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+}
+
+.element2 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+}
+
+.element3 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+
+}
+
+.element4 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+
+}
+
+.element5 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+}
+
+.element6 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+}
+
+.element7 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+}
+
+.element8 {
+    text-align: center;
+    width: 25%;
+    height: 20em;
+}
+}
+
+.conteneur2 {
+    display: flex;
+}
+
+.logo1 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 125px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+ 
+.logo2 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 250px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.logo3 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 260px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.logo4 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 280px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.logo5 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 125px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.logo6 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 250px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.logo7 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 260px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.logo8 {
+    border: 1px solid black;
+    border-radius: 75px;
+    float: left;
+    margin-left: 280px;
+    margin-top: -45px;
+    box-shadow: 2px 2px 6px black;
+}
+
+ .formation{
+    text-align: center;
+}
+
+.comp {
+    margin-top: 135px;
+}
